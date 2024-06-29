@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "resume-schema": "^1.0.0",
+    "resumed": "^3.0.1",
     "sade": "^1.7.0",
     "yoctocolors": "^1.0.0"
   },
